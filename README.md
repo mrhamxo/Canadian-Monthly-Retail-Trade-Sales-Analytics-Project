@@ -1,1 +1,3 @@
 # Canadian-Monthly-Retail-Trade-Sales-Analytics-Project
+
+# Detailed Report comming soon.......
