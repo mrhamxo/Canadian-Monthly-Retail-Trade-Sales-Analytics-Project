@@ -177,7 +177,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Monthly Sales Trend](visualizations_images/01_monthly_sales_trend.png)
 
-**Insight:** Canadian retail sales grew steadily from ~$51B/month in early 2017 to a peak of **$76.8B in May 2025** (+50.6% total growth). A sharp COVID-19 dip bottomed out at **$37.1B in April 2020**, followed by a strong V-shaped recovery driven by pent-up consumer demand and government stimulus.
+**Insight:** Canadian retail sales grew steadily from ~$600B/month (total dataset) in early 2017 to a peak of **$903.23B in May 2025**. A sharp COVID-19 dip bottomed out at **$448.49B in April 2020**, followed by a strong V-shaped recovery driven by pent-up consumer demand and government stimulus.
 
 ---
 
@@ -185,7 +185,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![MoM YoY Growth](visualizations_images/02_mom_yoy_growth.png)
 
-**Insight:** Average MoM growth is **+0.82%**, while average YoY growth is **+4.39%**. The most dramatic negative MoM swing was April 2020 (−28%), and the highest recovery spike was May 2020 (+18.7%). YoY growth stabilized at 3–5% post-2022, signaling a return to pre-pandemic baseline growth.
+**Insight:** Average MoM growth is **+0.61%**, while average YoY growth is **+5.05%**. The most dramatic negative MoM swing was April 2020 (−28%), and the highest recovery spike was May 2020 (+18.7%). YoY growth stabilized at 3–5% post-2022, signaling a return to pre-pandemic baseline growth.
 
 ---
 
@@ -201,7 +201,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Industry Market Share](visualizations_images/04_industry_market_share.png)
 
-**Insight:** Motor Vehicle & Parts commands **27.0% of national retail market share** (2025 figures). The top 4 industries — Motor Vehicles, Food & Beverage, General Merchandise, and Gasoline Stations — collectively capture ~70% of the market, leaving all other sub-sectors competing for the remaining 30%.
+**Insight:** Automobile dealers command **6.9% of national retail market share** (2025 figures), with the top industries — Retail trade aggregate, Motor Vehicles, Food & Beverage, and General Merchandise — leading by volume, leaving all other sub-sectors competing for the remaining 30%.
 
 ---
 
@@ -209,7 +209,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Industry Growth Rate](visualizations_images/05_industry_growth_rate.png)
 
-**Insight:** **General Merchandise** is the fastest-growing industry at **+74.6%** over the study period — largely driven by large-format discount retail and warehouse clubs. **Cannabis Retailers** show explosive but volatile growth since legalization. Traditional sectors like Clothing and Gasoline show more modest gains.
+**Insight:** **Miscellaneous retailers** is the fastest-growing industry at **+95.4%** over the study period. **Cannabis Retailers** also show strong growth since legalization. Traditional sectors like Clothing and Gasoline show more modest gains.
 
 ---
 
@@ -217,7 +217,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Seasonal Industry Heatmap](visualizations_images/06_seasonal_industry_heatmap.png)
 
-**Insight:** The heatmap reveals clear seasonal concentration in **Sporting Goods & Hobby** (peaks June–August) and **Clothing** (peaks November–December). **Food & Beverage** remains remarkably stable year-round with a coefficient of variation below 12%, making it the most reliable sector for revenue planning.
+**Insight:** The heatmap reveals clear seasonal concentration in **Sporting Goods & Hobby** (peaks June–August) and **Clothing** (peaks November–December). **Supermarkets & Other Grocery** remains remarkably stable year-round with a coefficient of variation of just **3.3%**, making it the most reliable sector for revenue planning.
 
 ---
 
@@ -233,7 +233,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Provincial Growth Rate](visualizations_images/08_provincial_growth_rate.png)
 
-**Insight:** **Prince Edward Island** is the fastest-growing province at **+50.3%** growth — from a low base, but consistent and accelerating. Alberta shows the slowest growth (+30.8%), partly due to oil price sensitivity and population migration patterns. All provinces show positive growth, meaning the retail sector expanded nationally.
+**Insight:** **Prince Edward Island** is the fastest-growing province at **+53.7%** growth — from a low base, but consistent and accelerating. Alberta shows the slowest growth (+29.8%), partly due to oil price sensitivity and population migration patterns. All provinces show positive growth, meaning the retail sector expanded nationally.
 
 ---
 
@@ -249,7 +249,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![E-Commerce Sales Share](visualizations_images/10_ecommerce_sales_share.png)
 
-**Insight:** E-Commerce's share of retail grew from **2.68% (2017)** to **6.83% (latest)** — a **+4.15 percentage point** increase. More tellingly, e-commerce YoY growth averaged **20.9%**, compared to just **4.4%** for total retail. Despite the rising share, digital retail remains a minority channel, suggesting substantial future growth headroom.
+**Insight:** E-Commerce's share of retail grew from **0.46% (2017)** to **1.18% (latest)** — a **+0.72 percentage point** increase. E-commerce YoY growth averaged **20.8%**, compared to **5.1%** for total retail. Despite the rising share, digital retail remains a minority channel, suggesting substantial future growth headroom.
 
 ---
 
@@ -257,7 +257,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Adjusted vs Unadjusted](visualizations_images/11_adjusted_vs_unadjusted.png)
 
-**Insight:** On average, the seasonal adjustment smooths out a **7.0% variance** relative to unadjusted figures. Unadjusted sales spike sharply in Q4 (November/December) and dip in Q1 — patterns that would distort trend analysis if not controlled for. The adjusted series reveals the true underlying demand trajectory.
+**Insight:** On average, the seasonal adjustment smooths out a **40.9% variance** relative to unadjusted figures. Unadjusted sales spike sharply in Q4 (November/December) and dip in Q1 — patterns that would distort trend analysis if not controlled for. The adjusted series reveals the true underlying demand trajectory.
 
 ---
 
@@ -273,7 +273,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Holiday Sales Spike](visualizations_images/13_holiday_sales_spike.png)
 
-**Insight:** November registers **+5.2%** above the annual average and December reaches **+6.6%** — confirming the holiday season as the single most critical retail period. Industries like General Merchandise and Electronics show spikes of 15–25% in these months, making inventory and staffing planning in Q4 essential for profitability.
+**Insight:** November registers **+4.3%** above the annual average and December reaches **+4.6%** — confirming the holiday season as the single most critical retail period. Industries like General Merchandise and Electronics show spikes of 15–25% in these months, making inventory and staffing planning in Q4 essential for profitability.
 
 ---
 
@@ -281,7 +281,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Seasonal Stability Score](visualizations_images/14_seasonal_stability_score.png)
 
-**Insight:** **Food & Beverage** is the most seasonally stable industry (CV: 11.2%), making it the safest bet for consistent revenue. **Cannabis** is the most volatile (CV: 41.9%), reflecting its immaturity as a sector and rapidly changing consumer adoption. Retailers in volatile sectors should build larger working capital buffers.
+**Insight:** **Supermarkets & Other Grocery** is the most seasonally stable industry (CV: 3.3%), making it the safest bet for consistent revenue. **Jewellery, Luggage & Leather** is the most volatile (CV: 24.8%), reflecting its immaturity as a sector and rapidly changing consumer adoption. Retailers in volatile sectors should build larger working capital buffers.
 
 ---
 
@@ -289,7 +289,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 
 ![Forecast Visualization](visualizations_images/15_forecast_visualization.png)
 
-**Insight:** The Holt-Winters model achieves a **MAPE of 3.79%** and MAE of $2.70B/month — strong accuracy for monthly retail forecasting. The 12-month forward forecast projects a **−10.5% trend direction**, primarily reflecting seasonal normalization after the 2025 summer peak. Sales are expected to return to the $58–73B monthly range through early 2027.
+**Insight:** The Holt-Winters model achieves a **MAPE of 3.79%** and MAE of $2.70B/month — strong accuracy for monthly retail forecasting. The 12-month forward forecast projects a **−10.5% trend direction**, primarily reflecting seasonal normalization after the 2025 summer peak.
 
 ---
 
@@ -389,22 +389,22 @@ The report uses a **star schema** architecture:
 
 | KPI | Value |
 |-----|-------|
-| Total Retail Sales (All-Time) | **$6.60 Trillion CAD** |
-| Average Monthly Sales | **$60.04 Billion** |
-| Average MoM Growth | **+0.82%** |
-| Average YoY Growth | **+4.39%** |
-| Peak Sales Month | **May 2025 — $76.83B** |
-| Lowest Sales Month | **April 2020 — $37.07B** (COVID) |
+| Total Retail Sales (All-Time) | **$79.71 Trillion CAD** |
+| Average Monthly Sales | **$724.62 Billion** |
+| Average MoM Growth | **+0.61%** |
+| Average YoY Growth | **+5.05%** |
+| Peak Sales Month | **May 2025 — $903.23B** |
+| Lowest Sales Month | **April 2020 — $448.49B** (COVID) |
 
 ### Industry KPIs
 
 | KPI | Value |
 |-----|-------|
-| Top Industry by Sales | **Motor Vehicle & Parts Dealers** |
-| Top Market Share (2025) | **27.0%** |
-| Fastest Growing Industry | **General Merchandise (+74.6%)** |
-| Most Stable Industry | **Food & Beverage (CV: 11.2%)** |
-| Most Volatile Industry | **Cannabis (CV: 41.9%)** |
+| Top Industry by Sales | **Retail trade ($32.62T)** |
+| Top Market Share (2025) | **Automobile dealers (6.9%)** |
+| Fastest Growing Industry | **Miscellaneous retailers (+95.4%)** |
+| Most Stable Industry | **Supermarkets & Other Grocery (CV: 3.3%)** |
+| Most Volatile Industry | **Jewellery, Luggage & Leather (CV: 24.8%)** |
 
 ### Geographic KPIs
 
@@ -412,25 +412,25 @@ The report uses a **star schema** architecture:
 |-----|-------|
 | Top Province by Sales | **Ontario** |
 | Ontario's Contribution | **38.0% of national retail** |
-| Fastest Growing Province | **Prince Edward Island (+50.3%)** |
-| Slowest Growing Province | **Alberta (+30.8%)** |
+| Fastest Growing Province | **Prince Edward Island (+53.7%)** |
+| Slowest Growing Province | **Alberta (+29.8%)** |
 
 ### E-Commerce KPIs
 
 | KPI | Value |
 |-----|-------|
-| Initial E-Commerce Share (2017) | **2.68%** |
-| Latest E-Commerce Share | **6.83%** |
-| Digital Adoption Rate Increase | **+4.15 percentage points** |
-| E-Commerce vs Total Retail YoY | **20.9% vs 4.4%** |
+| Initial E-Commerce Share (2017) | **0.46%** |
+| Latest E-Commerce Share | **1.18%** |
+| Digital Adoption Rate Increase | **+0.72 percentage points** |
+| E-Commerce vs Total Retail YoY | **20.8% vs 5.1%** |
 
 ### Seasonal KPIs
 
 | KPI | Value |
 |-----|-------|
-| November Holiday Spike | **+5.2% above annual average** |
-| December Holiday Spike | **+6.6% above annual average** |
-| Avg Seasonal Adjustment Gap | **7.0% of unadjusted sales** |
+| November Holiday Spike | **+4.3% above annual average** |
+| December Holiday Spike | **+4.6% above annual average** |
+| Avg Seasonal Adjustment Gap | **40.9% of unadjusted sales** |
 
 ### Forecasting KPIs
 
@@ -474,19 +474,19 @@ The model captures **level**, **trend**, and **seasonality** simultaneously — 
 
 ### For Retailers & Business Strategists
 
-1. **Double down on General Merchandise.** With +74.6% growth over the study period, this is the highest-momentum sector. Retailers should evaluate if their product mix captures enough general merchandise SKUs.
+1. **Double down on Miscellaneous Retailers.** With +95.4% growth over the study period, Miscellaneous retailers lead momentum. Retailers should evaluate diversifying into this category.
 
-2. **Prioritize Q4 inventory and staffing.** December's +6.6% holiday spike is consistent year over year. Supply chain planning should begin no later than August to ensure adequate stock and staffing for November–December demand.
+2. **Prioritize Q4 inventory and staffing.** December's +4.6% holiday spike is consistent year over year. Supply chain planning should begin no later than August to ensure adequate stock and staffing for November–December demand.
 
-3. **Invest aggressively in e-commerce.** At 20.9% YoY growth versus 4.4% for total retail, digital channels are growing ~5× faster. Retailers without a robust online presence risk structural market share erosion over the next decade.
+3. **Invest aggressively in e-commerce.** At 20.8% YoY growth versus 5.1% for total retail, digital channels are growing ~4× faster. Retailers without a robust online presence risk structural market share erosion over the next decade.
 
-4. **Hedge against volatility in Cannabis sector.** The Cannabis sector (CV: 41.9%) is unpredictable. Retailers or investors in this space should maintain larger liquidity reserves and avoid over-leveraging on inventory.
+4. **Hedge against volatility in Jewellery, Luggage & Leather sector.** The Jewellery, Luggage & Leather sector (CV: 24.8%) is unpredictable. Retailers or investors in this space should maintain larger liquidity reserves and avoid over-leveraging on inventory.
 
 5. **Focus western expansion on British Columbia over Alberta.** BC shows stronger post-2021 retail growth and population-driven demand trends. Alberta's flatter trajectory warrants a more cautious investment posture.
 
 ### For Policymakers & Government Analysts
 
-6. **Monitor PEI's retail growth trajectory.** Prince Edward Island's +50.3% growth rate is exceptional for a small province. Policy support for small business infrastructure and e-commerce logistics here could sustain and amplify this trend.
+6. **Monitor PEI's retail growth trajectory.** Prince Edward Island's +53.7% growth rate is exceptional for a small province. Policy support for small business infrastructure and e-commerce logistics here could sustain and amplify this trend.
 
 7. **Re-examine regional retail equity.** Ontario and Quebec capturing ~60% of national retail activity creates systemic vulnerability. Policies encouraging retail development in Atlantic and Prairie provinces could improve national economic resilience.
 
