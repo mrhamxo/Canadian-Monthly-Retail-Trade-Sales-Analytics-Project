@@ -95,6 +95,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 ├── 📊 PowerBI_Dashboard.pbix            # Interactive Power BI report (4 pages)
 ├── 📂 Dataset/
 │   └── 20100056.csv                     # Raw Statistics Canada data
+    └── retail_sales_cleaned.csv         # Cleaned Statistics Canada data
 ├── 📂 visualizations_images/            # All 15 exported analysis charts
 │   ├── 01_monthly_sales_trend.png
 │   ├── 02_mom_yoy_growth.png
