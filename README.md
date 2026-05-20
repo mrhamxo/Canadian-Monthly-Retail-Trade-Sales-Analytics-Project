@@ -527,7 +527,7 @@ jupyter notebook Data_cleaning.ipynb
 # 4. Run the analysis and forecasting notebook
 jupyter notebook Data_Analysis.ipynb
 
-# 5. Open PowerBI_Dashboard.pbix in Power BI Desktop
+# 5. Open Canadian Retail Trade Sales Visualization.pbix in Power BI Desktop
 #    (requires Microsoft Power BI Desktop — free download)
 ```
 
