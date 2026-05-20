@@ -300,7 +300,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ### Dashboard 1 — Executive Overview
 
-![Executive Overview Dashboard](PowerBI_Screenshots/1_Executive_Overview.PNG)
+![Executive Overview Dashboard](PowerBI_Dashboard/1_Executive_Overview.PNG)
 
 **Audience:** C-suite executives, board members, senior leadership
 
@@ -317,7 +317,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ### Dashboard 2 — Industry Performance
 
-![Industry Performance Dashboard](PowerBI_Screenshots/2_Industry_Performance.PNG)
+![Industry Performance Dashboard](PowerBI_Dashboard/2_Industry_Performance.PNG)
 
 **Audience:** Category managers, merchandising teams, strategy analysts
 
@@ -334,7 +334,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ### Dashboard 3 — Geographic Analysis
 
-![Geographic Analysis Dashboard](PowerBI_Screenshots/3_Geographic_Analysis.PNG)
+![Geographic Analysis Dashboard](PowerBI_Dashboard/3_Geographic_Analysis.PNG)
 
 **Audience:** Regional sales managers, government policy teams, real estate planners
 
@@ -349,7 +349,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ### Dashboard 4 — Forecasting
 
-![Forecasting Dashboard](PowerBI_Screenshots/4_Forecasting.PNG)
+![Forecasting Dashboard](PowerBI_Dashboard/4_Forecasting.PNG)
 
 **Audience:** Supply chain planners, finance teams, demand analysts
 
