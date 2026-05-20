@@ -12,7 +12,7 @@
 4. [Project Structure](#-project-structure)
 5. [Technology Stack](#-technology-stack)
 6. [Data Cleaning & Feature Engineering](#-data-cleaning--feature-engineering)
-7. [Exploratory Data Analysis — Charts & Insights](#-exploratory-data-analysis--charts--insights)
+7. [Exploratory Data Analysis Charts & Insights](#-exploratory-data-analysis--charts--insights)
 8. [Power BI Dashboards](#-power-bi-dashboards)
 9. [Key KPI Results](#-key-kpi-results)
 10. [Forecasting](#-forecasting)
