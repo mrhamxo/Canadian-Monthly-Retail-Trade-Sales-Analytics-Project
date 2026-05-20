@@ -1,4 +1,4 @@
-# 🇨🇦 Canadian Monthly Retail Trade Sales — End-to-End Analytics Project
+# 🇨🇦 Canadian Monthly Retail Trade Sales End-to-End Analytics Project
 
 > **A complete data analytics pipeline** covering data ingestion, cleaning, exploratory analysis, Power BI dashboarding, and time-series forecasting on Statistics Canada's Monthly Retail Trade Survey (2017–2026).
 
@@ -147,7 +147,7 @@ Retail businesses and policymakers need a single, authoritative view of Canadian
 ### Steps Performed
 
 1. **Loaded** raw CSV (76,482 rows × 17 columns)
-2. **Inspected** data types, null counts, and duplicate rows — zero duplicates found
+2. **Inspected** data types, null counts, and duplicate rows, zero duplicates found
 3. **Converted** `REF_DATE` from string to datetime for temporal operations
 4. **Extracted** temporal features: `Year`, `Month`, `Month_Name`, `Quarter`
 5. **Stripped** NAICS codes from industry names (e.g., `Retail trade [44-45]` → `Retail trade`)
@@ -299,7 +299,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ---
 
-### Dashboard 1 — Executive Overview
+### Dashboard 1: Executive Overview
 
 ![Executive Overview Dashboard](PowerBI_Dashboard/1_Executive_Overview.PNG)
 
@@ -316,7 +316,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ---
 
-### Dashboard 2 — Industry Performance
+### Dashboard 2: Industry Performance
 
 ![Industry Performance Dashboard](PowerBI_Dashboard/2_Industry_Performance.PNG)
 
@@ -333,7 +333,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ---
 
-### Dashboard 3 — Geographic Analysis
+### Dashboard 3: Geographic Analysis
 
 ![Geographic Analysis Dashboard](PowerBI_Dashboard/3_Geographic_Analysis.PNG)
 
@@ -348,7 +348,7 @@ The Power BI report consists of **4 interactive pages** built on a star-schema d
 
 ---
 
-### Dashboard 4 — Forecasting
+### Dashboard 4: Forecasting
 
 ![Forecasting Dashboard](PowerBI_Dashboard/4_Forecasting.PNG)
 
@@ -439,7 +439,7 @@ The report uses a **star schema** architecture:
 | Model Used | **Holt-Winters Triple Exponential Smoothing** |
 | Forecast Accuracy (MAPE) | **3.79%** |
 | Mean Absolute Error | **$2.70B/month** |
-| 12-Month Trend Direction | **DECREASING (−10.5%)** — seasonal normalization |
+| 12-Month Trend Direction | **DECREASING (−10.5%)** seasonal normalization |
 
 ---
 
