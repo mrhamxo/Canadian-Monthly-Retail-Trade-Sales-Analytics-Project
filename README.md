@@ -1,4 +1,4 @@
-# 🇨🇦 Canadian Monthly Retail Trade Sales End-to-End Analytics Project
+# 🇨🇦 Canadian Monthly Retail Trade Sales Analytics Project
 
 > **A complete data analytics pipeline** covering data ingestion, cleaning, exploratory analysis, Power BI dashboarding, and time-series forecasting on Statistics Canada's Monthly Retail Trade Survey (2017–2026).
 
